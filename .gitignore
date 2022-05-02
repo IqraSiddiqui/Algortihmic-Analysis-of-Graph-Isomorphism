@@ -1,9 +1,0 @@
-*~
-.DS_Store
-__pycache__
-solution/
-auto/
-*.pdf
-*.aux
-*.log
-*.out
