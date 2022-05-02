@@ -1,15 +1,12 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7235577&assignment_repo_type=AssignmentRepo)
 # Project:
-# CS 412 Algorithms: Design and Analysis, Spring 2022
+# Algorithmic Analysis of Graph Isomorphism Problem
 
 -----
 
-The details of this project are shared [on Canvas](https://hulms.instructure.com/courses/1921/pages/project-details).
+This project presents an algorithmic analysis of a computational problem i.e. graph isomorphism. The problem is also called ”graph matching” problem and lies at the heart of myriad fields including computer vision and pattern recognition. Such an importance drives need to look for solutions that are not only appropriate but also efficient. The objective of this paper is to analyse time efficiency of solving graph isomorphism problem using different algorithmic design techniques
 
-You will submit your work through this repository. An initial file structure is provided corresponding to the various deliverables. These will be populated by you as the project proceeds. 
 
-An `images/` folder is provided for the images to be referenced in the subfolders and `refs.bib` for the citations.
-
-# Discussion
-
-Please discuss the project and any related thoughts on the dedicated discussion thread on Canvas.
+# Authors
+Team maximum-solution
+-----
+CS 412 Algorithms: Design and Analysis, Spring 2022
